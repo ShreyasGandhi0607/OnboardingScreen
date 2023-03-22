@@ -51,7 +51,7 @@ class _RegisterWithPhoneNumberState extends State<RegisterWithPhoneNumber> {
                     padding: const EdgeInsets.symmetric(
                         vertical: 15.0, horizontal: 20),
                     child: Text(
-                      'Enter your phone number to continu, we will send you OTP to verifiy.',
+                      'Enter your phone number to continue, we will send you OTP to verifiy.',
                       textAlign: TextAlign.center,
                       style:
                           TextStyle(fontSize: 14, color: Colors.grey.shade700),
@@ -113,7 +113,7 @@ class _RegisterWithPhoneNumberState extends State<RegisterWithPhoneNumber> {
                                 color: Colors.grey.shade500, fontSize: 16),
                           ),
                           onSaved: (PhoneNumber number) {
-                            print('On Saved: $number');
+                            print('On Saved: ');
                           },
                         ),
                         Positioned(

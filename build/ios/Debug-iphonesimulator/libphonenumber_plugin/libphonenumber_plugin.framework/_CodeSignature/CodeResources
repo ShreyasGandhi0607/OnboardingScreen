@@ -38,7 +38,7 @@
 		</data>
 		<key>Modules/libphonenumber_plugin.swiftmodule/arm64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		153BEXSj+r83cgUNQoK8/dMlj2Q=
+		Nsps94wxoaBkyb7bnzhFRC2AYpY=
 		</data>
 		<key>Modules/libphonenumber_plugin.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
 		<data>
@@ -50,7 +50,7 @@
 		</data>
 		<key>Modules/libphonenumber_plugin.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		L9OyxatDVNhGyJ6fMio4gUT/zK8=
+		BTugd271hG05iALbz3Uedo1IL+c=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -112,7 +112,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			3qrm2/pN2t+wz5tSi7nAA65A3S1C7DFd3F5T+OfxCRo=
+			3bpz15DKlNowUT1my3IDlwm65HnAJT/J/b62OIrVD2U=
 			</data>
 		</dict>
 		<key>Modules/libphonenumber_plugin.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
@@ -133,7 +133,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			x2pvo1RH63HmAFB0+C6yUUrWPSHYx+DNQepowbbdp0k=
+			CR7r8icwnCSNE88d0PhDNhiBl/8ZSjf5Ni9Vh/498X0=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>

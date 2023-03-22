@@ -1,3 +1,6 @@
-2023/03/21-23:41:14.493 777c Reusing MANIFEST C:\Users\karma\AppData\Local\Temp\flutter_tools.7eb2b787\flutter_tools_chrome_device.77e66842\Default\shared_proto_db/MANIFEST-000001
-2023/03/21-23:41:14.493 777c Recovering log #3
-2023/03/21-23:41:14.496 777c Reusing old log C:\Users\karma\AppData\Local\Temp\flutter_tools.7eb2b787\flutter_tools_chrome_device.77e66842\Default\shared_proto_db/000003.log 
+2023/03/22-23:59:10.944 8503 Reusing MANIFEST /private/var/folders/kp/rl6vtq9d4_50l16fctpfbvnw0000gn/T/flutter_tools.KRrJ8Y/flutter_tools_chrome_device.hnSvnN/Default/shared_proto_db/MANIFEST-000001
+2023/03/22-23:59:10.944 8503 Recovering log #3
+2023/03/22-23:59:10.945 8503 Reusing old log /private/var/folders/kp/rl6vtq9d4_50l16fctpfbvnw0000gn/T/flutter_tools.KRrJ8Y/flutter_tools_chrome_device.hnSvnN/Default/shared_proto_db/000003.log 
+2023/03/22-23:59:23.760 9a03 Level-0 table #5: started
+2023/03/22-23:59:23.770 9a03 Level-0 table #5: 137138 bytes OK
+2023/03/22-23:59:23.778 9a03 Delete type=0 #3

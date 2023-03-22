@@ -4,7 +4,7 @@
             "outputFile": "com.example.animation.app-mergeDebugResources-5:/values/values.xml",
             "map": [
                 {
-                    "source": "/Users/shreyasgandhi/Downloads/Login-and-OTP-verification-main/android/app/src/main/res/values/styles.xml",
+                    "source": "/Users/shreyasgandhi/Desktop/Login-and-OTP-verification-main/android/app/src/main/res/values/styles.xml",
                     "from": {
                         "startLines": "3,14",
                         "startColumns": "4,4",

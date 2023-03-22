@@ -18,11 +18,11 @@
 		</data>
 		<key>Modules/PhoneNumberKit.swiftmodule/Project/arm64-apple-ios-simulator.swiftsourceinfo</key>
 		<data>
-		lG3l/zc9ymc7/B1uexTuT52qlXE=
+		aYAVDoCmWZxo/rRQbjBRUgmFPmg=
 		</data>
 		<key>Modules/PhoneNumberKit.swiftmodule/Project/x86_64-apple-ios-simulator.swiftsourceinfo</key>
 		<data>
-		Z0VOvY9c+FvQPS3exqLQ1rLqK7s=
+		+5b2xRKXKHwNXz3GRKxOFt71BYE=
 		</data>
 		<key>Modules/PhoneNumberKit.swiftmodule/arm64-apple-ios-simulator.abi.json</key>
 		<data>
@@ -34,7 +34,7 @@
 		</data>
 		<key>Modules/PhoneNumberKit.swiftmodule/arm64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		kJAsxLUUJvHlrHQKafmgiFnir2M=
+		n5tbAqnnaUpF58IYM2c5GNgfBkQ=
 		</data>
 		<key>Modules/PhoneNumberKit.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
 		<data>
@@ -46,7 +46,7 @@
 		</data>
 		<key>Modules/PhoneNumberKit.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		1OorCejJLi2w7Zfe8W+Xccwh0bM=
+		6ogO7PnRs52KhPEFu0RNJZNcfps=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -85,22 +85,22 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			lG3l/zc9ymc7/B1uexTuT52qlXE=
+			aYAVDoCmWZxo/rRQbjBRUgmFPmg=
 			</data>
 			<key>hash2</key>
 			<data>
-			qaDzEBpBrFm7qLluL7HvCpBQrkPbBH10xQ3zGdJf6lA=
+			1niZ0d83ZaDDYF/bqDVpiiESmSa06hME03n1rDQkpNk=
 			</data>
 		</dict>
 		<key>Modules/PhoneNumberKit.swiftmodule/Project/x86_64-apple-ios-simulator.swiftsourceinfo</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			Z0VOvY9c+FvQPS3exqLQ1rLqK7s=
+			+5b2xRKXKHwNXz3GRKxOFt71BYE=
 			</data>
 			<key>hash2</key>
 			<data>
-			E8Q2j8jsILUChc0Jo1xJ5JGxVaX+HcSkvgW/341iVew=
+			jf0s1NxdAGQ9COL6f3YqWjA+KYBSevXhfkqsBjZO2ck=
 			</data>
 		</dict>
 		<key>Modules/PhoneNumberKit.swiftmodule/arm64-apple-ios-simulator.abi.json</key>
@@ -129,11 +129,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			kJAsxLUUJvHlrHQKafmgiFnir2M=
+			n5tbAqnnaUpF58IYM2c5GNgfBkQ=
 			</data>
 			<key>hash2</key>
 			<data>
-			qYeomlbNZOMfJQt/dF32CS8fA1T+ZrJdP6R69JjaUls=
+			Kh+VL5h7J9xp2YlvDTypICYcNFN3t+7u1g12p1N/8wU=
 			</data>
 		</dict>
 		<key>Modules/PhoneNumberKit.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
@@ -162,11 +162,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			1OorCejJLi2w7Zfe8W+Xccwh0bM=
+			6ogO7PnRs52KhPEFu0RNJZNcfps=
 			</data>
 			<key>hash2</key>
 			<data>
-			/yEpKjgT02sPrrKujEAQ9Q6Nk1X9p/ddzEYKzi8WUp4=
+			d0k5sQVlsiBhPfS6rMyOrQbCo48wvpvoFvdSkH4rHnY=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>

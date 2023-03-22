@@ -21,9 +21,9 @@ class _GetStartedscreenState extends State<GetStartedscreen> {
   ];
 
   final titles = [
-    "hi this is chaitanya karmalkar",
-    "who are you?",
-    "something about it."
+    "Hi there",
+    "Welcome to the Myapp",
+    "We are here to help you",
   ];
 
   final descs = [
@@ -91,7 +91,9 @@ class _GetStartedscreenState extends State<GetStartedscreen> {
                         onPressed: () {
                           Navigator.push(
                             context,
-                            MaterialPageRoute(builder: (context) => const RegisterWithPhoneNumber()),
+                            MaterialPageRoute(
+                                builder: (context) =>
+                                    const RegisterWithPhoneNumber()),
                           );
                         },
                         style: ElevatedButton.styleFrom(
@@ -120,10 +122,9 @@ class _GetStartedscreenState extends State<GetStartedscreen> {
                       ElevatedButton(
                         onPressed: () {
                           final nextPage = selectedIndex.value + 1;
-                          pageController.animateToPage(
-                            nextPage,
-                            duration: const Duration(microseconds: 300),
-                            curve: Curves.ease);
+                          pageController.animateToPage(nextPage,
+                              duration: const Duration(microseconds: 300),
+                              curve: Curves.ease);
                         },
                         style: ElevatedButton.styleFrom(
                           shape: RoundedRectangleBorder(
