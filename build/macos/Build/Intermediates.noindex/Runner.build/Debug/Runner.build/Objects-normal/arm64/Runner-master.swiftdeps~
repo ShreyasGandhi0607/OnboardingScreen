@@ -1,0 +1,8 @@
+version: "Apple Swift version 5.7.2 (swiftlang-5.7.2.135.5 clang-1400.0.29.51)"
+options: "8eaf991d82fcfe95a07c69369e0c300fa541f2509b231f95f2bf24126fe5b42a"
+build_start_time: [1679489013, 63699007]
+build_end_time: [1679489013, 185044050]
+inputs:
+  "/Users/shreyasgandhi/Downloads/Login-and-OTP-verification-main/macos/Flutter/GeneratedPluginRegistrant.swift": !private [1679488984, 172904014]
+  "/Users/shreyasgandhi/Downloads/Login-and-OTP-verification-main/macos/Runner/AppDelegate.swift": !private [1679424988, 0]
+  "/Users/shreyasgandhi/Downloads/Login-and-OTP-verification-main/macos/Runner/MainFlutterWindow.swift": !private [1679424988, 0]

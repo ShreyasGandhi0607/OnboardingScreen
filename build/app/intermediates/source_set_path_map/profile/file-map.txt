@@ -1,0 +1,8 @@
+com.example.animation.app-main-0 /Users/shreyasgandhi/Downloads/Login-and-OTP-verification-main/android/app/src/main/res
+com.example.animation.app-profile-1 /Users/shreyasgandhi/Downloads/Login-and-OTP-verification-main/android/app/src/profile/res
+com.example.animation.app-pngs-2 /Users/shreyasgandhi/Downloads/Login-and-OTP-verification-main/build/app/generated/res/pngs/profile
+com.example.animation.app-resValues-3 /Users/shreyasgandhi/Downloads/Login-and-OTP-verification-main/build/app/generated/res/resValues/profile
+com.example.animation.app-rs-4 /Users/shreyasgandhi/Downloads/Login-and-OTP-verification-main/build/app/generated/res/rs/profile
+com.example.animation.app-mergeProfileResources-5 /Users/shreyasgandhi/Downloads/Login-and-OTP-verification-main/build/app/intermediates/incremental/profile/mergeProfileResources/merged.dir
+com.example.animation.app-mergeProfileResources-6 /Users/shreyasgandhi/Downloads/Login-and-OTP-verification-main/build/app/intermediates/incremental/profile/mergeProfileResources/stripped.dir
+com.example.animation.app-merged_res-7 /Users/shreyasgandhi/Downloads/Login-and-OTP-verification-main/build/app/intermediates/merged_res/profile
